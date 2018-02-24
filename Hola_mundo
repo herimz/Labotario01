@@ -3,10 +3,7 @@
 int main(){
   printf("\nHola Mundo");
   printf("\nFernada Fragoso\n");
-  #include<stdio.h>
-
-
-  printf("\Te amo mi amor\n")
+  printf("\Mendoza Salinas Heriberto\n")
 
   return 0;
 }
